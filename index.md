@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body>
   <h2>nomico ・ 奥 乃美 ・ OKU Emi</h2>
