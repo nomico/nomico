@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h2>nomico / 奥 乃美 / OKU Emi</h2>
+  <h2>nomico ・ 奥 乃美 ・ OKU Emi</h2>
 
 
   <h2>更新</h2>
