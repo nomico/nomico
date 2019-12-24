@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+
   <h2>nomico ・ 奥 乃美 ・ OKU Emi</h2>
 
 
@@ -22,7 +20,3 @@
 
 
   <h2>Books</h2>
-
-
-</body>
-</html>
